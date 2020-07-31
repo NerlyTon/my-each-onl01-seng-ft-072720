@@ -7,6 +7,6 @@ def my_each(words)
   words
 end
 
-p my_each([words]) do |word|
-  puts word
+p my_each([nums]) do |num|
+  puts num
 end
