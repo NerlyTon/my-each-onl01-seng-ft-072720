@@ -8,5 +8,5 @@ def my_each(words)
 end
 
 p my_each([nums]) do |num|
-  puts num
+  num
 end
