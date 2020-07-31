@@ -7,6 +7,6 @@ def my_each(words)
   words
 end
 
-my_each([words]) do |word|
+returned_words = my_each([words]) do |word|
   word
 end
